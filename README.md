@@ -6,11 +6,11 @@ A new Flutter project.
 
 1. Halaman Pertama
 
-![](image/fix1.jpg)
+![](image/1.jpg)
 
 2. Halaman Kedua
 
-![](image/fix2.jpg)
+![](image/2.jpg)
 
 ## Hasil Sertifikat
 1. Sertifikat Dart
